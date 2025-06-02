@@ -1,4 +1,15 @@
 # Dotnet-gitignore
+
+
+# My Project Title
+
+A brief description of your project.
+
+## Ignored Files (from .gitignore)
+
+These are the files and directories that are intentionally not tracked by Git in this repository.
+
+```gitignore
 # Compiled output
 bin/
 obj/
